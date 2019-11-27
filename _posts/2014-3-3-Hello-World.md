@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Features of this Folium Data Visualizaton
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The data visualization map is complete and is static hosted at the following link:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+<a href="https://modest-hawking-4ecc01.netlify.com/"> map.html </a>
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+The following series of blog posts will detail the systems of hunting regulation in Ontario and will demonstrate the features of this interactive map!
